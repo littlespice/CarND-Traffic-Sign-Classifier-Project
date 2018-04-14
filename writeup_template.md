@@ -45,11 +45,12 @@ You're reading it! and here is a link to my [project code](https://github.com/ud
 I used the pandas library to calculate summary statistics of the traffic
 signs data set:
 
-* The size of training set is ?
-* The size of the validation set is ?
-* The size of test set is ?
-* The shape of a traffic sign image is ?
-* The number of unique classes/labels in the data set is ?
+ File          | Description    | Size  | Shape| Channel | No. of Unique Labels |               
+ :-----------: | -------------: | -----:| ----:| ------: | --------------------:|
+ train.p       | Training Set   | 34799 | 32x32| 3       | 43                   |
+ validation.p  | Validation Set | 4410  | 32x32| 3       | 43                   |
+ test.p        | Test Set       | 12630 | 32x32| 3       | 43                   |
+
 
 #### 2. Include an exploratory visualization of the dataset.
 
